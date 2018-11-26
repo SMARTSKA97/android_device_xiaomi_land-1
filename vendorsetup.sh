@@ -1,0 +1,2 @@
+add_lunch_combo havoc_land-userdebug
+add_lunch_combo havoc_land-eng
